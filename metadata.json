@@ -1,0 +1,8 @@
+
+{
+  "name": "Electronic Medical Records chat support",
+  "description": "An intelligent AI chat support tool for Electronic Medical Records, powered by Information Systems using secure data sources.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
